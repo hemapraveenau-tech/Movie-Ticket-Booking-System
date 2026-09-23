@@ -1,3 +1,11 @@
+A console-based Movie Ticket Booking System developed using Python.
+Users can view movies, select shows, and book tickets.
+Admins can manage movies, shows, and bookings.
+This project uses Python concepts like functions, loops, lists, and dictionaries.
+The project demonstrates a simple real-world ticket booking application.
+
+OUTPUT:-
+
 =============================
    AVAILABLE MOVIES
 ==============================
